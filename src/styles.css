@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+  font-family: "Nunito", sans-serif;
+}
+.root {
+  min-height: 100vh;
+  background-image: url("https://github.com/Chensokheng/island/blob/master/public/assets/bg.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.appbar {
+  background: none;
+  background: transparent;
+  /* font-family: 'Nunito', sans-serif; */
+}
+.color-title {
+  color: #5aff3d;
+}
+.icon {
+  color: #fff;
+  font-size: 2rem;
+}
+.appbar-title {
+  flex-grow: 1;
+}
+.appbarWrapper {
+  width: 80%;
+  margin: 0 auto;
+}
+.root-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+  font-family: "Nunito", sans-serif;
+}
+.title {
+  color: #fff;
+  font-size: 3rem;
+}
+.container {
+  text-align: center;
+}
+.down-icon {
+  color: #5aff3d;
+  font-size: 3rem;
+}
+.root-3 {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.media1 {
+  background-image: url("https://github.com/Chensokheng/island/blob/master/public/assets/island1.jpg?raw=true");
+}
